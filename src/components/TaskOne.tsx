@@ -1,6 +1,7 @@
-// task one
-// add button and checkbox,
-// when checkbox is checked, button should be disable
+// task two
+// 1. disable button -> button is grey -> enable button -> button is red
+// 2. click button to change color -> disable button -> button is gray
+// 3. enable button -> button is blue
 
 import { useState } from "react";
 
